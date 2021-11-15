@@ -1,5 +1,9 @@
-# Getting Started with Create React App
+This is the first version of the app that mostly contains backend work for the app, the main datting page had to be done asside due to conflicting errors with the main.
 
+
+
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
